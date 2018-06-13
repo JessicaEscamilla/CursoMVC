@@ -259,3 +259,27 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Videos/bower_components/bootstrap/docs/4.1/examples/screenshots
+/Videos/bower_components/bootstrap/docs/4.1
+/Videos/wwwroot/lib/jQuery/src/var
+/Videos/wwwroot/lib/jQuery/src/traversing
+/Videos/wwwroot/lib/jQuery/src
+/Videos/wwwroot/lib/jQuery/test
+/Videos/wwwroot/lib/jQuery
+/Videos/wwwroot/wwwroot/lib/bootstrap/assets
+/Videos/wwwroot/wwwroot/lib
+/Videos/wwwroot/lib/bootstrap
+/Videos/wwwroot/bower_components/jQuery/test
+/Videos/wwwroot/bower_components/jQuery/src
+/Videos/wwwroot/bower_components/jQuery/external
+/Videos/wwwroot/bower_components/jQuery
+/Videos/bower_components/jQuery/test
+/Videos/bower_components/jQuery/src
+/Videos/bower_components/jQuery
+/Videos/bower_components/bootstrap/_layouts
+/Videos/bower_components/bootstrap/js/tests
+/Videos/bower_components/bootstrap/js
+/Videos/bower_components/bootstrap/dist
+/Videos/bower_components/bootstrap/assets/js
+/Videos/bower_components/bootstrap/assets/img
+/Videos/bower_components/bootstrap

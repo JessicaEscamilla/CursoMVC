@@ -1,0 +1,10 @@
+{
+  "name": "mypackage",
+  "private": true,
+  "dependencies": {
+    "jQuery": "3.3.1",
+    "bootstrap": "~4.1.1"
+
+
+  }
+}

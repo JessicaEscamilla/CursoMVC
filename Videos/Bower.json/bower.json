@@ -1,0 +1,9 @@
+{
+  "name": "mypackage",
+  "private": true,
+  "dependencies": {
+    "jQuery": "3.3.1"
+
+
+  }
+}
