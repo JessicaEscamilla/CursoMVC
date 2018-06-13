@@ -1,0 +1,32 @@
+﻿body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input[type=submit] {
+    width: auto;
+}
+
+input, textarea {
+    font-size: 18px;
+    width: 200px;
+}
+
+label {
+    font-size: 16px;
+}
+#theform {
+    background-color: #8b7bb4;
+}
+
+#theform input[type=submit] {
+    background-color: green;
+    color: white;
+}
+
+ul.propiedades {
+    font-size: small;
+}
+
+ul.propiedades li{
+    list-style-type: none;
+}
