@@ -39,9 +39,25 @@ ul.propiedades li{
     background-color: lightskyblue;
     border-radius:8px;
 }
-.ProductInfo img{
+.ProductInfo img {
     margin: 5px;
     float: left;
     border: 2px solid black;
     max-width: 450px;
 }
+#LoginToggle {
+    cursor: pointer;
+}
+
+.PopupForm {
+    padding: 5px;
+    border: 2px black inset;
+    display: inline-block;
+}   
+    .PopupForm input {
+        width: 200px;
+    }
+    .PopupForm input {
+        width: 150px;
+        display: inline-block; 
+    }
